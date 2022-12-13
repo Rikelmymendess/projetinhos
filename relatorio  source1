@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shotcut icon" href="img/favecoin/favicon.ico">
+  <title> Relatorio Source Estilos</title>
+  <style>
+  body{background-color: rgba(223, 223, 223, 0.863);}
+
+
+  </style>
+  </head>
+  <body> 
+
+  <ins><h1><font color="green"> <Strong>Entrega Em Estação</Strong>  &DownArrow;</font> </p></h1>
+ 
+  <h1><strong> Entrega:<input type="text" name="Nome" size="40"/></Strong> </p></h1>
+
+   <h3>Horario De Chegada:<input type="text" name="Nome" size="40"/></p> 
+  Horario De Saida:<input type="text" name="Nome" size="40" /> </p>
+  Produto:<input type="text" name="Nome" size="40" /> </p> 
+  Tamanho:<input type="text" name="Nome" size="40" /> </p> 
+  Cor:<input type="text" name="Nome" size="40" /> </p> 
+  Valor Da Venda:<input type="text" name="Nome" size="40" /> </p> 
+  Valor Pago No Produto:<input type="text" name="Nome" size="40" /> </p> 
+  Estaçao Da Entrega: <input type="text" name="Nome" size="40" /> </p> 
+  Contato :<input type="text" name="Nome" size="40" /> </p> 
+  Forma De Pagamento:<input type="text" name="Nome" size="40" /> </p> 
+  Atendente: <input type="text" name="Nome" size="40" /> </p>  
+  <br>
+  <h3>Informações Adcionais:<input type="text" name="Nome" size="40" /></p>  </h3>
+  <hr>
+  
+  <h1><mark style="background-color: chartreuse;" >Relatorio para fim de dia a baixo &DownArrow;</mark></p></h1>
+
+  <h1> <font color="green"> <strong>Entrega: <input type="text" name="Nome" size="40"/></strong></font> </p></h1>
+
+  <h3>Horario De Chegada: <input type="text" name="Nome" size="40" /> </p> 
+  Horario de saida:</ins> <input type="text" name="Nome" size="40" /> </p> 
+  Valor Da Venda:<input type="text" name="Nome" size="40" /> </p> 
+  forma De Pagamento:<input type="text" name="Nome" size="40" /> </p> 
+  estação Da entrega:<input type="text" name="Nome" size="40" /> </p> 
+  Entregador:<input type="text" name="Nome" size="40" /> </p> 
+  Quem Atendeu :<input type="text" name="Nome" size="40" /> </p> 
+  Usado Na Entrega:<input type="text" name="Nome" size="40" /> </p> </h3></ins>
+
+</Body>
+
+</html> 
+
+
+
